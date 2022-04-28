@@ -99,5 +99,5 @@ void loop()
 
 Output of the simulation :
 
-[My image](https://github.com/vijay21500269/EXP-02-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/Screenshot%20(8).png)
+![My image](https://github.com/vijay21500269/EXP-02-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/Screenshot%20(8).png)
 
