@@ -67,6 +67,28 @@ FIGURE -03
 
 
 PROGRAM 
+~~~
+// C++ code
+//
+int buttonstate=0;
+void setup()
+{
+  pinMode(2, OUTPUT);
+  pinMode(3, OUTPUT);
+}
+
+void loop()
+{
+  // read the state of the pushbutton
+  buttonstate = digitalRead(13);
+  if (buttonstate == HIGH) {
+    digitalWrite(2, HIGH);
+  }	else {
+  	digitalWrite(2,LOW);
+  }
+  delay(10);
+}
+~~~
  
  
  
